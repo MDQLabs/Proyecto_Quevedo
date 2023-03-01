@@ -57,5 +57,43 @@ h1{
     text-align: center;
 }
 
+.iconolk{
+    
+    height: auto;
+    width: 43px;
+    text-align: center;
+    margin-left: 500px;
+    display:inline-block;
+}
 
+
+.iconoface{
+    
+    height: auto;
+    width: 43px;
+    text-align: center;
+    margin-left: 20px;
+    display: inline-block;
+    
+}
+
+.iconoinsta{
+    
+    height: auto;
+    width: 43px;
+    text-align: center;
+    margin-left: 20px;
+    display: inline-block;
+    
+}
+
+.iconotwi{
+    
+    height: auto;
+    width: 43px;
+    text-align: center;
+    margin-left: 20px;
+    display: inline-block;
+    
+}
   
